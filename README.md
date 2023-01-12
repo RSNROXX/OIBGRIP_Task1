@@ -11,4 +11,4 @@ CSS3
 <br>
 <br>
 
-<h4 style="text-align: right">Designed By:- Rishikesh Naware</h4>
+<h4>Designed By:- Rishikesh Naware</h4>
