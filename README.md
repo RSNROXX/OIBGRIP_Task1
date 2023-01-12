@@ -1,6 +1,8 @@
 <h1>OIBGRIP_Task1</h1>
 <h2>Level 1 - Task 1 (Landing Page)</h2>
-A landing page is one of the best web development projects for beginners. This project demands a foundational understanding of HTML and CSS. You will learn how to add columns, divide sections, arrange items, add headers, footers. Most importantly, you will use your creativity to make the page look impressive. The alignments, the padding, the color palette, boxes and all the other elements on the page require attention. Use CSS carefully to make sure the elements on the page do not overlap.
+A landing page is one of the most important aspect for any website. 
+This includes knowledge of UI&UX and manupilate website such that it is asthetically pleasing and visually appealling.
+This landing page is being build for general purpose which represents how a flow of an ideal website should be.
 
 <h2>IDE</h2> 
 VS Code
