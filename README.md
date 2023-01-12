@@ -6,5 +6,5 @@ A landing page is one of the best web development projects for beginners. This p
 VS Code
 
 <h2>Languages</h2> 
-HTML5
+HTML5,
 CSS3
